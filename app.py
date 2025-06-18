@@ -4,7 +4,7 @@ from wordfinder import build_default_trie
 
 trie = build_default_trie()
 
-st.title("Hello,It's Anna, Your lovely Teacher")
+st.title("Hello,It's your lovely Teacher")
 
 button_to_key = {
     "1": "d",
